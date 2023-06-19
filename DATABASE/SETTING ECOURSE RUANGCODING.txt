@@ -1,0 +1,9 @@
+SETTING ECOURSE RUANGCODING
+
+1. Setting Rekening Bank
+Nomor rekening bank ada di file berikut :
+- application/views/members/invoice.php  | row 111
+- application/views/members/upgrade.php   | row 266
+
+2. Setting SMTP email
+Setting SMTP email ada di halaman administrator, menu identitas

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+  <rss version="2.0"><channel> 
+				<title>RSS Members Lokomedia - Komunitas pecinta CMS Lokomedia</title> 
+				<description>Members lokomedia, members phpmu, phpmu.com, bukulokomedia, cms swarakalibata, swarakalibata ci, codeigniter indonesia</description>
+				<link>https://members.lokomedia.web.id</link> 
+				<language>id-id</language><item>
+						                <title>SIAKAD V2 (PHP 7) - SISTEM INFORMASI AKADEMIK SMP/SMA/SMK Kurikulum 2013 dan KTSP</title>
+						                <link>http://localhost/members/berita/detail/siakad-v2-php-7--sistem-informasi-akademik-smpsmasmk-kurikulum-2013-dan-ktsp</link>
+						                <description></description>
+					                </item><item>
+						                <title>OpenSID - Website Sistem Informasi Desa framework CodeIgniter</title>
+						                <link>http://localhost/members/berita/detail/opensid--website-sistem-informasi-desa-framework-codeigniter</link>
+						                <description></description>
+					                </item><item>
+						                <title>Lokodinas : Website Portal Instansi Pemerintah - Template Dinas 1</title>
+						                <link>http://localhost/members/berita/detail/lokodinas--website-portal-instansi-pemerintah--template-dinas-1</link>
+						                <description></description>
+					                </item><item>
+						                <title>Website Company Profile Lokomedia - Framework CodeIgniter</title>
+						                <link>http://localhost/members/berita/detail/website-company-profile-lokomedia--framework-codeigniter</link>
+						                <description></description>
+					                </item><item>
+						                <title>CMS Swarakalibata CodeIgniter V.2.0 - Support PHP7</title>
+						                <link>http://localhost/members/berita/detail/cms-swarakalibata-codeigniter-v20--support-php7</link>
+						                <description></description>
+					                </item><item>
+						                <title>Website Portal Instansi Pemerintah</title>
+						                <link>http://localhost/members/berita/detail/website-portal-instansi-pemerintah</link>
+						                <description></description>
+					                </item><item>
+						                <title>[Template] EasyNews - Template CMS Swarakalibata CI</title>
+						                <link>http://localhost/members/berita/detail/template-easynews--template-cms-swarakalibata-ci</link>
+						                <description></description>
+					                </item><item>
+						                <title>LOKOPOS - Aplikasi Point of Sales framework CodeIgniter</title>
+						                <link>http://localhost/members/berita/detail/lokopos--aplikasi-point-of-sales-framework-codeigniter</link>
+						                <description></description>
+					                </item><item>
+						                <title>Tokolokomedia - Toko Baju Butik Online</title>
+						                <link>http://localhost/members/berita/detail/tokolokomedia--toko-baju-butik-online</link>
+						                <description></description>
+					                </item><item>
+						                <title>Website Portal Desa Responsive dengan PHP dan MySQL</title>
+						                <link>http://localhost/members/berita/detail/website-portal-desa-responsive-dengan-php-dan-mysql</link>
+						                <description></description>
+					                </item></channel>
+  	</rss>

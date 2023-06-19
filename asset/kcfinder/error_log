@@ -1,0 +1,8 @@
+[25-Oct-2018 19:52:14 UTC] PHP Fatal error:  Using $this when not in object context in /home/ptbimaco/members.lokomedia.web.id/asset/kcfinder/index.php on line 2
+[25-Oct-2018 19:53:20 UTC] PHP Fatal error:  Using $this when not in object context in /home/ptbimaco/members.lokomedia.web.id/asset/kcfinder/index.php on line 2
+[25-Oct-2018 19:53:35 UTC] PHP Fatal error:  Using $this when not in object context in /home/ptbimaco/members.lokomedia.web.id/asset/kcfinder/index.php on line 3
+[25-Oct-2018 19:54:34 UTC] PHP Notice:  Undefined variable: _session in /home/ptbimaco/members.lokomedia.web.id/asset/kcfinder/index.php on line 3
+[25-Oct-2018 19:55:20 UTC] PHP Notice:  Undefined variable: _session in /home/ptbimaco/members.lokomedia.web.id/asset/kcfinder/index.php on line 4
+[25-Oct-2018 19:55:23 UTC] PHP Notice:  Undefined variable: _session in /home/ptbimaco/members.lokomedia.web.id/asset/kcfinder/index.php on line 4
+[25-Oct-2018 19:55:47 UTC] PHP Notice:  Undefined variable: _session in /home/ptbimaco/members.lokomedia.web.id/asset/kcfinder/index.php on line 4
+[25-Oct-2018 19:55:47 UTC] PHP Fatal error:  Function name must be a string in /home/ptbimaco/members.lokomedia.web.id/asset/kcfinder/index.php on line 4

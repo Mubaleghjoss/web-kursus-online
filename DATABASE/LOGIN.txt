@@ -1,0 +1,6 @@
+Administrator : localhost/NAMAFOLDER/adminarea
+User : admin@ruangcoding.com
+Pass : admin123
+
+*Login user bisa dilihat di database
+Untuk penggunaan secara online, sebaiknya lakukan perubahan email dan password admin terlebih dahulu.

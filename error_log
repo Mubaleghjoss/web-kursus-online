@@ -1,0 +1,41 @@
+[05-May-2020 15:46:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/views/members/register.php on line 82
+[05-May-2020 15:48:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/views/members/register.php on line 82
+[05-May-2020 15:52:28 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Register.php on line 122
+[05-May-2020 15:55:46 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Register.php on line 119
+[05-May-2020 15:57:26 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/views/members/register.php on line 82
+[05-May-2020 15:57:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/views/members/register.php on line 82
+[06-May-2020 04:19:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/views/members/detailhalaman.php on line 45
+[07-May-2020 23:33:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Upgrade.php on line 24
+[07-May-2020 23:34:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Upgrade.php on line 6
+[07-May-2020 23:37:14 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Upgrade.php on line 6
+[07-May-2020 23:40:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Upgrade.php on line 46
+[07-May-2020 23:47:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Upgrade.php on line 116
+[25-May-2020 04:50:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 1471
+[26-May-2020 03:37:29 UTC] PHP Parse error:  syntax error, unexpected '$data['record' in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 1519
+[26-May-2020 11:31:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/views/administrator/mod_pricelist/view_pricelist.php on line 33
+[29-May-2020 05:14:51 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:16:49 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:16:50 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:17:01 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:19:20 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:19:52 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:19:54 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:20:11 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2856
+[29-May-2020 05:21:10 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2856
+[29-May-2020 05:21:11 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2856
+[29-May-2020 05:21:11 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2856
+[29-May-2020 05:21:12 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2856
+[29-May-2020 05:21:12 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2856
+[29-May-2020 05:21:12 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2856
+[29-May-2020 05:21:12 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2856
+[29-May-2020 05:23:23 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:24:37 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:26:32 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:26:33 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:26:34 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:26:35 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:26:35 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:26:35 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:26:36 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:31:50 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2855
+[29-May-2020 05:32:41 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/ptbimaco/demo.ruangcoding.com/ecourse/application/controllers/Adminarea.php on line 2863
